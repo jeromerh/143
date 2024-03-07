@@ -1,0 +1,22 @@
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/002/960/590/small/abstract-watercolor-texture-wallpaper-background-free-vector.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    
+    }
+    
+    .heading h3{
+    display: inline;
+    
+    }
+    
+    
+    
+    .heading button{
+        float: right;
+        border: 1px solid white;
+    }
